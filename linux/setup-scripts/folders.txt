@@ -1,0 +1,9 @@
+xxxxxxxxxxxx                    D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                  D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                 D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                       D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                   D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                     D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                   D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                     D       rwx     r-x     ---     ownttrsg        gttrsgrx
+xxxxxxxxxxxx                D       rwx     r-x     ---     ownttrsg        gttrsgrx
